@@ -5,7 +5,11 @@ body {
 
 li {
     display: inline;
- }
+ };
+ footer{
+  text-align: center;
+}
+
 
 
  
